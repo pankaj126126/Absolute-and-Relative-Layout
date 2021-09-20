@@ -1,0 +1,15 @@
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\bin\Debug\netstandard2.0\RelativeTCS.deps.json
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\bin\Debug\netstandard2.0\RelativeTCS.dll
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\bin\Debug\netstandard2.0\ref\RelativeTCS.dll
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\bin\Debug\netstandard2.0\RelativeTCS.pdb
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.csproj.AssemblyReference.cache
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.AssemblyInfoInputs.cache
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.AssemblyInfo.cs
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.csproj.CoreCompileInputs.cache
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.dll
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\ref\RelativeTCS.dll
+C:\Users\pankaj\source\repos\RelativeTCS\RelativeTCS\obj\Debug\netstandard2.0\RelativeTCS.pdb
